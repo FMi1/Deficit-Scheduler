@@ -6,4 +6,4 @@ The server service policy is a non-gated time-limited policy with multiple vacat
 
 The Omnet++ code can be found in the ["src/"](https://github.com/lossi771/Deficit-Scheduler/tree/main/src) direcory.
  
-Further useful information and results can be found in the PDF file ["report.pdf"](https://github.com/lossi771/Deficit-Scheduler/tree/main/src/report.pdf).
+Further useful information and results can be found in the PDF file ["report.pdf"](https://github.com/lossi771/Deficit-Scheduler/blob/main/report.pdf).
